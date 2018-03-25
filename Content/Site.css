@@ -110,11 +110,11 @@
 }
 
 .video-testiomonial{
-  margin-top: 20px;
+  margin-top: 60px;
   position: relative;
-	padding-bottom: 48%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
+  padding-bottom: 35%;
+  padding-top: 40px;
+  height: 0px;
   width: 100%;
 }
 .video-testiomonial iframe{
@@ -133,16 +133,16 @@ box-shadow: 0px 3px 20px 0px rgba(0,0,0,0.75);
 
 /* #region bloco-reel */
 .bloco-reel {
-    /*background-image: url('recursos/imagens/bg-universo.jpg');
+    background-image: url('recursos/imagens/bg-universo-0.jpg');
     background-attachment: fixed;
-    background-position: center top;
+    background-position: center;
     background-repeat: no-repeat;
     -ms-background-size: cover;
-    background-size: cover;*/
+    background-size: cover;
     padding-bottom: 50px;
 }
 
-.bloco-reel .bg_video{
+/*.bloco-reel .bg_video{
   position: fixed;
   right: 0;
   bottom: 0;
@@ -154,8 +154,7 @@ box-shadow: 0px 3px 20px 0px rgba(0,0,0,0.75);
   background: url(images/torre.jpg) no-repeat;
   background-size: cover;
   filter: brightness(0.4);
-
-}
+}*/
 
 .bloco-reel h1 {
     color: #fff;
